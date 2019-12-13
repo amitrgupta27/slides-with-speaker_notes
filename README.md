@@ -5,10 +5,10 @@
 ## Src code
 All the source is in one file under src/final-project/tasks.py. The code makes extensive use of ExternalProgramTask.
 
-For a general overview of the work:
+For project overview:
 
 Slides: 
-https://drive.google.com/file/d/1BVVmtdMYBaVqpqqjYbmBujxfCBPtSeUs/view?usp=sharing
+FinalProject-AmitRGupta.pdf
 
 Recording:
 https://drive.google.com/file/d/1JgjWNNW8X4NZ_1LUDv3YO-TAmNSOaG5E/view?usp=sharing
